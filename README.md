@@ -14,7 +14,7 @@ It's ME
 
 - 👨‍💻 All of my projects are available at [Microsoft](Microsoft)
 
-- 💬 Ask me about **that one time I can trapped in an abandoned fridge**
+- 💬 Ask me about **that one time I got trapped in an abandoned fridge**
 
 - 📫 How to reach me **lycrasoft@outlook.com**
 
