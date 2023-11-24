@@ -8,10 +8,9 @@ It's ME
 </p>
 
 <h3 align="left">Badges:</h3>
-<p align="left"> <a  
-                   ![image](https://github.com/Radon-Villanueva/hello-world/assets/119030125/d8bd1be9-7056-4e40-ba49-2b5e302c7285)
-                   ![image](https://github.com/Radon-Villanueva/hello-world/assets/119030125/e2e58275-9341-48f6-9300-1ae07d79ccdb)
-                   ![image](https://github.com/Radon-Villanueva/hello-world/assets/119030125/da1e1f97-f554-43cc-aa0e-a556cff1573e)
+                   ![image]([(https://raw.githubusercontent.com/Flet/rejected-github-profile-achievements/main/images/worksonmymachine.png])
+                   ![image]([https://raw.githubusercontent.com/Flet/rejected-github-profile-achievements/main/images/itsbadluck.png])
+                   ![image]([https://raw.githubusercontent.com/Flet/rejected-github-profile-achievements/main/images/speedreader.png])
 
 https://github.com/Flet/rejected-github-profile-achievements
 
