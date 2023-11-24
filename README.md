@@ -11,7 +11,13 @@ It's ME
 
 ![](https://github.com/Radon-Villanueva/hello-world/blob/main/terminal%20(1).gif)
 </p>
+
+
+
 ![](https://github.com/Radon-Villanueva/hello-world/blob/main/terminal.gif)
+
+
 </p>
+
 https://github.com/Flet/rejected-github-profile-achievements
 
