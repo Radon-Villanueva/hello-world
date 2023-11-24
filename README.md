@@ -8,9 +8,8 @@ It's ME
 </p>
 
 <h3 align="left">Badges:</h3>
-                   ![image]([(https://raw.githubusercontent.com/Flet/rejected-github-profile-achievements/main/images/worksonmymachine.png])
-                   ![image]([https://raw.githubusercontent.com/Flet/rejected-github-profile-achievements/main/images/itsbadluck.png])
-                   ![image]([https://raw.githubusercontent.com/Flet/rejected-github-profile-achievements/main/images/speedreader.png])
+
+            
 
 https://github.com/Flet/rejected-github-profile-achievements
 
