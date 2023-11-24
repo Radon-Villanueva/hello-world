@@ -7,9 +7,11 @@ It's ME
 <p Here is a collection of my badges
 </p>
 
-<h3 align="left">Badges:</h3>
+<h3 align="left">My Inspiration:</h3>
 
-            
-
+![](https://github.com/Radon-Villanueva/hello-world/blob/main/terminal%20(1).gif)
+</p>
+![](https://github.com/Radon-Villanueva/hello-world/blob/main/terminal.gif)
+</p>
 https://github.com/Flet/rejected-github-profile-achievements
 
